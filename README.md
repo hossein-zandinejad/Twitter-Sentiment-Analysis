@@ -1,6 +1,9 @@
 # Twitter Sentiment Analysis and Entity Classification
 Sentiment Analysis & Entity Classification on Twitter Dataset
 
+![Alt Text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vp1M37AGMOFwCvLxVm62IA.jpeg)
+
+## Table of Contents
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Dataset](#dataset)
