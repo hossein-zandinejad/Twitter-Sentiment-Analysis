@@ -47,9 +47,17 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. Install the required dependencies mentioned in the project's environment or requirements files. You can typically install them using `pip` or `conda`.
+```bash
+git clone https://github.com/hossein-zandinejad/Twitter-Sentiment-Analysis.git
+```
 
-3. Run the provided Jupyter Notebook to replicate the analysis and explore the results. The notebook contains detailed explanations and code for each step of the analysis.
+3. Install the required dependencies mentioned in the project's requirements.txt. You can typically install them using `pip` or `conda`.
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the provided Jupyter Notebook to replicate the analysis and explore the results. The notebook contains detailed explanations and code for each step of the analysis.
 
 ## Usage
 
