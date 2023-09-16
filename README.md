@@ -1,4 +1,5 @@
 # Twitter Sentiment Analysis and Entity Classification
+Sentiment Analysis & Entity Classification on Twitter Dataset
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
